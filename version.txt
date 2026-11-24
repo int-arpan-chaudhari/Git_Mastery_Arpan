@@ -1,0 +1,16 @@
+Semantic Versioning ( x.x.x )
+
+first x stand for Major release
+second x stand for Minor release
+third x stand for Patch release
+
+ex:- 
+1.0.0
+
+This is first Major release b's it start with '1' and their Minor and Patch are '0'.
+
+-> if Major increase, Minor and Patch reset to '0'
+-> if Minor increase,  only Patch reset to '0'
+
+-> '^'(caret) :  allows Minor and Patch update
+-> '~'(Tilde) : allows only Patch update
